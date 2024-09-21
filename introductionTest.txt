@@ -2,3 +2,6 @@ Hello!
 This text file is here to help checking the branch behaviour. 
 
 Bye!
+
+
+Here is an extra text.
